@@ -1,0 +1,48 @@
+!SESSION 2022-11-03 15:33:27.809 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-03 15:33:57.536
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-03 15:33:57.587
+!MESSAGE Log4j initialized with config file C:\Users\nguye\Documents\microcontroller-hcmut\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-03 15:34:00.552
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-11-03 15:34:54.603 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-03 15:35:01.498
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-03 15:35:01.544
+!MESSAGE Log4j initialized with config file C:\Users\nguye\Documents\microcontroller-hcmut\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-03 15:35:04.489
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-11-03 15:36:46.450 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-03 15:36:56.235
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-03 15:36:56.282
+!MESSAGE Log4j initialized with config file C:\Users\nguye\Documents\microcontroller-hcmut\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-03 15:36:58.978
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-03 15:37:23.885
+!MESSAGE Indexed 'Exercise4' (17 sources, 104 headers) in 2.47 sec: 6,985 declarations; 25,085 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.58%)
