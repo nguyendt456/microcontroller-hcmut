@@ -1,0 +1,22 @@
+/*
+ * button.h
+ *
+ *  Created on: Nov 5, 2022
+ *      Author: nguye
+ */
+
+#ifndef INC_BUTTON_H_
+#define INC_BUTTON_H_
+
+#define NORMAL_STATE GPIO_PIN_SET
+#define PRESSED_STATE GPIO_PIN_RESET
+
+int getButtonEvent();
+int getINCInput_normal_press(int counter);
+int getDCInput_normal_press(int counter);
+int getResetInput_normal_press(int counter);
+
+int getINCInput(int counter);
+int getDCInput(int counter);
+int getResetInput(int counter);
+#endif /* INC_BUTTON_H_ */

@@ -1,0 +1,1075 @@
+2022-11-05 03:13:59,417 [INFO] Activator:177 - 
+
+
+2022-11-05 03:13:59,418 [INFO] Activator:178 - !SESSION log4j initialized
+2022-11-05 03:14:01,889 [INFO] McuFinderGlobals:44 - Set McuFinder mode to 2 (CubeIDE integrated)
+2022-11-05 03:14:02,384 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420
+2022-11-05 03:14:02,399 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/mcu/
+2022-11-05 03:14:02,399 [INFO] ApiDb:269 - Set plugin database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/boardmanager/
+2022-11-05 03:14:02,401 [WARN] ApiDb:254 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/mcufinder/images/
+2022-11-05 03:14:02,411 [INFO] ApiDb:249 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-05 03:14:02,412 [INFO] DbMcusAds:124 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-05 03:14:02,414 [INFO] CrossReferenceDbSqlite:201 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-11-05 03:14:02,481 [INFO] RulesReader:61 - Compatibility file has been processed (282 Rules)
+2022-11-05 03:14:02,541 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/mcu/
+2022-11-05 03:14:02,541 [INFO] ApiDb:269 - Set plugin database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/boardmanager/
+2022-11-05 03:14:02,541 [INFO] ApiDb:256 - Set plugin images path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/mcufinder/images/
+2022-11-05 03:14:02,541 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,542 [INFO] ApiDb:249 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-05 03:14:02,542 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,542 [INFO] DbMcusAds:124 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-05 03:14:02,542 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,543 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,543 [INFO] CrossReferenceDbSqlite:201 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-11-05 03:14:02,594 [INFO] MainPanel:242 - HeapMemory: 268435456
+2022-11-05 03:14:02,644 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/mcu/
+2022-11-05 03:14:02,644 [INFO] ApiDb:269 - Set plugin database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/boardmanager/
+2022-11-05 03:14:02,644 [INFO] ApiDb:256 - Set plugin images path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/mcufinder/images/
+2022-11-05 03:14:02,645 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,645 [INFO] ApiDb:249 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-05 03:14:02,645 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,645 [INFO] DbMcusAds:124 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/
+2022-11-05 03:14:02,645 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,645 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\nguye\.stmcufinder\plugins\mcufinder/ => C:\Users\nguye\.stmcufinder\plugins\mcufinder
+2022-11-05 03:14:02,645 [INFO] CrossReferenceDbSqlite:201 - Set database path to: C:\Users\nguye\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-11-05 03:14:02,659 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420
+2022-11-05 03:14:02,660 [INFO] PluginManage:193 - Search for loadable plugins [exclusion list=, ]
+2022-11-05 03:14:02,661 [INFO] PluginManage:307 - Check plugin analytics
+2022-11-05 03:14:02,752 [INFO] AnalyticsPlugin:262 - Accepted Software Licenses: 
+2022-11-05 03:14:02,753 [INFO] AnalyticsPlugin:264 - Accepted CMSIS Pack Licenses: 
+2022-11-05 03:14:02,753 [INFO] AnalyticsPlugin:266 - Accepted Firmware Licenses: 
+2022-11-05 03:14:02,760 [INFO] PluginManage:356 - Loaded plugin analytics (category:tool,tabindex:-1)
+2022-11-05 03:14:02,760 [INFO] PluginManage:307 - Check plugin cadmodel
+2022-11-05 03:14:02,763 [INFO] CADModel:65 - Init CAD model plugin
+2022-11-05 03:14:02,763 [INFO] PluginManage:356 - Loaded plugin cadmodel (category:power,tabindex:5)
+2022-11-05 03:14:02,763 [INFO] PluginManage:307 - Check plugin clock
+2022-11-05 03:14:02,770 [INFO] PluginManage:356 - Loaded plugin clock (category:base,tabindex:2)
+2022-11-05 03:14:02,771 [INFO] PluginManage:307 - Check plugin ddr
+2022-11-05 03:14:02,772 [INFO] PluginManage:356 - Loaded plugin ddr (category:tool,tabindex:6)
+2022-11-05 03:14:02,772 [INFO] PluginManage:307 - Check plugin filemanager
+2022-11-05 03:14:02,883 [INFO] PluginManage:356 - Loaded plugin filemanager (category:base,tabindex:10)
+2022-11-05 03:14:02,883 [INFO] PluginManage:307 - Check plugin ipmanager
+2022-11-05 03:14:02,889 [INFO] PluginManage:356 - Loaded plugin ipmanager (category:base,tabindex:5)
+2022-11-05 03:14:02,889 [INFO] PluginManage:307 - Check plugin lpbam
+2022-11-05 03:14:02,895 [INFO] PluginManage:356 - Loaded plugin lpbam (category:base,tabindex:0)
+2022-11-05 03:14:02,895 [INFO] PluginManage:307 - Check plugin pinoutandconfiguration
+2022-11-05 03:14:02,899 [INFO] PluginManage:356 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2022-11-05 03:14:02,899 [INFO] PluginManage:307 - Check plugin pinoutconfig
+2022-11-05 03:14:02,919 [INFO] PluginManage:356 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2022-11-05 03:14:02,919 [INFO] PluginManage:307 - Check plugin power
+2022-11-05 03:14:02,925 [INFO] PluginManage:356 - Loaded plugin power (category:power,tabindex:4)
+2022-11-05 03:14:02,925 [INFO] PluginManage:307 - Check plugin projectmanager
+2022-11-05 03:14:02,935 [INFO] PluginManage:356 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2022-11-05 03:14:02,935 [INFO] PluginManage:307 - Check plugin thirdparty
+2022-11-05 03:14:03,017 [WARN] IntegrityCheckThread:82 - waiting for thirdparty lock release [integrity check]
+2022-11-05 03:14:03,018 [INFO] PluginManage:356 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2022-11-05 03:14:03,018 [INFO] IntegrityCheckThread:84 - entering critical section [integrity check]
+2022-11-05 03:14:03,018 [INFO] PluginManage:307 - Check plugin tools
+2022-11-05 03:14:03,019 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2022-11-05 03:14:03,020 [INFO] PluginManage:356 - Loaded plugin tools (category:base,tabindex:7)
+2022-11-05 03:14:03,020 [INFO] PluginManage:307 - Check plugin tutovideos
+2022-11-05 03:14:03,135 [INFO] PluginManage:356 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2022-11-05 03:14:03,136 [INFO] PluginManage:307 - Check plugin updater
+2022-11-05 03:14:03,144 [INFO] PluginManage:356 - Loaded plugin updater (category:base,tabindex:12)
+2022-11-05 03:14:03,145 [INFO] PluginManage:280 - PluginManage : Loaded plugins [15]
+2022-11-05 03:14:03,316 [INFO] PinOutPanel:1468 - setPackage(No Configuration,No Configuration)
+2022-11-05 03:14:03,361 [INFO] CADModel:98 - CPN selected for project level
+2022-11-05 03:14:03,373 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,374 [INFO] PluginManager:217 - loadIPPluginJar : add adc
+2022-11-05 03:14:03,375 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,376 [INFO] PluginManager:217 - loadIPPluginJar : add aes
+2022-11-05 03:14:03,377 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,377 [INFO] PluginManager:217 - loadIPPluginJar : add can
+2022-11-05 03:14:03,378 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,378 [INFO] PluginManager:217 - loadIPPluginJar : add comp
+2022-11-05 03:14:03,381 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,381 [INFO] PluginManager:217 - loadIPPluginJar : add cryp
+2022-11-05 03:14:03,382 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,383 [INFO] PluginManager:217 - loadIPPluginJar : add dfsdm
+2022-11-05 03:14:03,386 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,386 [INFO] PluginManager:217 - loadIPPluginJar : add dma
+2022-11-05 03:14:03,388 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,388 [INFO] PluginManager:217 - loadIPPluginJar : add dma3
+2022-11-05 03:14:03,388 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,388 [INFO] PluginManager:217 - loadIPPluginJar : add fatfs
+2022-11-05 03:14:03,391 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,391 [INFO] PluginManager:217 - loadIPPluginJar : add fmc
+2022-11-05 03:14:03,394 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,394 [INFO] PluginManager:217 - loadIPPluginJar : add freertos
+2022-11-05 03:14:03,395 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,395 [INFO] PluginManager:217 - loadIPPluginJar : add genericplugin
+2022-11-05 03:14:03,396 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,396 [INFO] PluginManager:217 - loadIPPluginJar : add gfxmmu
+2022-11-05 03:14:03,400 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,401 [INFO] PluginManager:217 - loadIPPluginJar : add gic
+2022-11-05 03:14:03,403 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,403 [INFO] PluginManager:217 - loadIPPluginJar : add gpio
+2022-11-05 03:14:03,404 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,404 [INFO] PluginManager:217 - loadIPPluginJar : add gtzc
+2022-11-05 03:14:03,405 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,405 [INFO] PluginManager:217 - loadIPPluginJar : add hash
+2022-11-05 03:14:03,408 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,408 [INFO] PluginManager:217 - loadIPPluginJar : add i2c
+2022-11-05 03:14:03,409 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,409 [INFO] PluginManager:217 - loadIPPluginJar : add i2s
+2022-11-05 03:14:03,411 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,411 [INFO] PluginManager:217 - loadIPPluginJar : add ipddr
+2022-11-05 03:14:03,416 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,416 [INFO] PluginManager:217 - loadIPPluginJar : add linkedlist
+2022-11-05 03:14:03,417 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,418 [INFO] PluginManager:217 - loadIPPluginJar : add lorawan
+2022-11-05 03:14:03,419 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,419 [INFO] PluginManager:217 - loadIPPluginJar : add ltdc
+2022-11-05 03:14:03,423 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,423 [INFO] PluginManager:217 - loadIPPluginJar : add mdma
+2022-11-05 03:14:03,426 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,426 [INFO] PluginManager:217 - loadIPPluginJar : add nvic
+2022-11-05 03:14:03,429 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,429 [INFO] PluginManager:217 - loadIPPluginJar : add opamp
+2022-11-05 03:14:03,431 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,432 [INFO] PluginManager:217 - loadIPPluginJar : add openamp
+2022-11-05 03:14:03,433 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,433 [INFO] PluginManager:217 - loadIPPluginJar : add pdm2pcm
+2022-11-05 03:14:03,437 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,439 [INFO] PluginManager:217 - loadIPPluginJar : add plateformsettings
+2022-11-05 03:14:03,440 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,440 [INFO] PluginManager:217 - loadIPPluginJar : add quadspi
+2022-11-05 03:14:03,443 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,444 [INFO] PluginManager:217 - loadIPPluginJar : add resmgrutility
+2022-11-05 03:14:03,445 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,445 [INFO] PluginManager:217 - loadIPPluginJar : add sai
+2022-11-05 03:14:03,446 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,447 [INFO] PluginManager:217 - loadIPPluginJar : add spi
+2022-11-05 03:14:03,449 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,450 [INFO] PluginManager:217 - loadIPPluginJar : add stm32_wpan
+2022-11-05 03:14:03,451 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,451 [INFO] PluginManager:217 - loadIPPluginJar : add tim
+2022-11-05 03:14:03,453 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,453 [INFO] PluginManager:217 - loadIPPluginJar : add touchsensing
+2022-11-05 03:14:03,454 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,455 [INFO] PluginManager:217 - loadIPPluginJar : add tracer_emb
+2022-11-05 03:14:03,456 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,456 [INFO] PluginManager:217 - loadIPPluginJar : add ts
+2022-11-05 03:14:03,457 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,457 [INFO] PluginManager:217 - loadIPPluginJar : add tsc
+2022-11-05 03:14:03,458 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,459 [INFO] PluginManager:217 - loadIPPluginJar : add ucpd
+2022-11-05 03:14:03,460 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,460 [INFO] PluginManager:217 - loadIPPluginJar : add usart
+2022-11-05 03:14:03,462 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:14:03,462 [INFO] PluginManager:217 - loadIPPluginJar : add usbx
+2022-11-05 03:14:03,691 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,769 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,777 [INFO] DbMcusAds:52 - JSON generation date=Thu Sep 30 13:56:37 ICT 2021 (1632984997303)
+2022-11-05 03:14:03,777 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,803 [WARN] DetailPanel:344 - Failed to get advertising image, set to default
+2022-11-05 03:14:03,906 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,908 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,908 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,909 [WARN] DetailPanel:344 - Failed to get advertising image, set to default
+2022-11-05 03:14:03,910 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-11-05 03:14:03,946 [ERROR] Updater:1105 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2022-11-05 03:14:03,947 [INFO] Updater:1041 - Updater Version found : 6.6.1
+2022-11-05 03:14:03,962 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420
+2022-11-05 03:14:04,107 [INFO] MainUpdater:2768 - connection check result : 10
+2022-11-05 03:14:04,107 [INFO] MainUpdater:280 - Updater Check For Update Now.
+2022-11-05 03:14:04,107 [INFO] MicroXplorer:481 - Change Database Version : DB.6.0.60
+2022-11-05 03:14:04,255 [INFO] CheckServerUpdateThread:119 - End of CheckServer Thread
+2022-11-05 03:14:04,314 [INFO] MainUpdater:2768 - connection check result : 10
+2022-11-05 03:14:04,458 [INFO] McuFinderGlobals:57 - Set McuFinderConnectedMode to true
+2022-11-05 03:14:04,463 [INFO] MultiScanPanel:195 - Auto-refresh data requested => check proxy status ongoing
+2022-11-05 03:14:04,466 [INFO] FinderPluginLoader:92 - Searching for filters in installed packs
+2022-11-05 03:14:04,538 [INFO] ApiDb:576 - Connected to CubeFinder SQLite database (C:\Users\nguye\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2022-11-05 03:14:04,556 [INFO] ApiDb:663 - CubeFinder database Data Model version=2.1
+2022-11-05 03:14:04,557 [INFO] ApiDb:664 - CubeFinder database Configuration version=3.0.32
+2022-11-05 03:14:04,557 [INFO] ApiDb:665 - CubeFinder database generation date=2022-08-05 (1659688109)
+2022-11-05 03:14:04,557 [INFO] ApiDb:666 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.1, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.1, STM32Cube_FW_WB_V1.14.1, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.1.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.3.0, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.3.0, X-CUBE-NFC4_V2.0.4, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0]
+2022-11-05 03:14:05,798 [INFO] ApiDb:239 - Found 138 in-development CPN: [B-WB1M-WPAN1, NUCLEO-C031C6, STEVAL-STWINBX1, STM320518-EVAL, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L476VGY6PTR, STM32L4R5QGI6STR, STM32MP131AAE3, STM32MP131AAF3, STM32MP131AAG3, STM32MP131CAE3, STM32MP131CAF3, STM32MP131CAG3, STM32MP131DAE7, STM32MP131DAF7, STM32MP131DAG7, STM32MP131FAE7, STM32MP131FAF7, STM32MP131FAG7, STM32MP133AAE3, STM32MP133AAF3, STM32MP133AAG3, STM32MP133CAE3, STM32MP133CAF3, STM32MP133CAG3, STM32MP133DAE7, STM32MP133DAF7, STM32MP133DAG7, STM32MP133FAE7, STM32MP133FAF7, STM32MP133FAG7, STM32MP135AAE3, STM32MP135AAF3, STM32MP135AAG3, STM32MP135CAE3, STM32MP135CAF3, STM32MP135CAG3, STM32MP135DAE7, STM32MP135DAF7, STM32MP135DAG7, STM32MP135F-DK, STM32MP135FAE7, STM32MP135FAF7, STM32MP135FAG7, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q, STM32WB1MMCH6]
+2022-11-05 03:14:05,801 [INFO] DbMcus:215 - Found 3542 MCUs, 3542 are supported
+2022-11-05 03:14:05,804 [INFO] ApiDb:418 - Load user favorites file C:\Users\nguye/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-11-05 03:14:05,804 [INFO] ApiDb:422 - User favorites MCUs=[]
+2022-11-05 03:14:05,804 [INFO] DbMcus:221 - Set 0 / 0 favorites MCUs
+2022-11-05 03:14:06,110 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2022-11-05 03:14:06,135 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2022-11-05 03:14:06,150 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.1.2.0
+2022-11-05 03:14:06,172 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2022-11-05 03:14:06,183 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.3
+2022-11-05 03:14:06,192 [WARN] PackLoader:242 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.1.3
+2022-11-05 03:14:06,198 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.4
+2022-11-05 03:14:06,202 [WARN] PackLoader:242 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.5.1
+2022-11-05 03:14:06,207 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.0
+2022-11-05 03:14:06,240 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.3.0
+2022-11-05 03:14:06,351 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2022-11-05 03:14:06,357 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2022-11-05 03:14:06,364 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.2.0
+2022-11-05 03:14:06,375 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.2.0
+2022-11-05 03:14:06,384 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.1.0.0
+2022-11-05 03:14:06,392 [WARN] PackLoader:242 - Cannot read IP mode file for RoweBots.I-CUBE-UNISONRTOS.5.5.0-4
+2022-11-05 03:14:06,411 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.2.1.0
+2022-11-05 03:14:06,417 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.3.0
+2022-11-05 03:14:06,424 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2022-11-05 03:14:06,438 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2022-11-05 03:14:06,448 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2022-11-05 03:14:06,485 [WARN] PackLoader:242 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.2.1
+2022-11-05 03:14:06,515 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.1.1.1
+2022-11-05 03:14:06,527 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.1.0.0
+2022-11-05 03:14:06,533 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2022-11-05 03:14:06,549 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.1.0.0
+2022-11-05 03:14:06,556 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.20.0
+2022-11-05 03:14:06,563 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.1.0.0
+2022-11-05 03:14:06,569 [WARN] PackLoader:242 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2022-11-05 03:14:06,574 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.1
+2022-11-05 03:14:06,584 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.1.0.0
+2022-11-05 03:14:06,592 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.3.1.1
+2022-11-05 03:14:06,593 [INFO] ThirdParty:929 - Integrity check success = true
+2022-11-05 03:14:06,595 [INFO] IntegrityCheckThread:98 - exiting critical section [integrity check]
+2022-11-05 03:14:06,595 [INFO] IntegrityCheckThread:101 - End integrity checks thread
+2022-11-05 03:14:06,887 [INFO] LoadUrlFilesThread:177 - End of LoadServerUrlFiles without Thread
+2022-11-05 03:14:06,898 [INFO] DetailPanel:339 - Set advertising image to C:/Users/nguye/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-11-05 03:14:07,220 [INFO] MultiScanPanel:778 - Auto Refresh Data is not needed
+2022-11-05 03:14:07,230 [INFO] ApiDb:663 - CubeFinder database Data Model version=2.1
+2022-11-05 03:14:07,230 [INFO] ApiDb:664 - CubeFinder database Configuration version=3.0.32
+2022-11-05 03:14:07,230 [INFO] ApiDb:665 - CubeFinder database generation date=2022-08-05 (1659688109)
+2022-11-05 03:14:07,230 [INFO] ApiDb:666 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.1, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.1, STM32Cube_FW_WB_V1.14.1, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.1.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.3.0, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.3.0, X-CUBE-NFC4_V2.0.4, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0]
+2022-11-05 03:14:07,274 [INFO] DbBoardsSqlite:227 - include board P-NUCLEO-WB55-NUCLEO as a kit item of type 'Nucleo-64'
+2022-11-05 03:14:07,275 [INFO] DbBoardsSqlite:227 - include board P-NUCLEO-WB55-USBDONGLE as a kit item of type 'Nucleo USB Dongle'
+2022-11-05 03:14:07,275 [INFO] DbBoardsSqlite:227 - include board STEVAL-IDP005V1 as a kit item of type 'Evaluation Board'
+2022-11-05 03:14:07,275 [INFO] DbBoardsSqlite:227 - include board STEVAL-IDP005V2 as a kit item of type 'Evaluation Board'
+2022-11-05 03:14:07,281 [INFO] ApiDb:239 - Found 138 in-development CPN: [B-WB1M-WPAN1, NUCLEO-C031C6, STEVAL-STWINBX1, STM320518-EVAL, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L476VGY6PTR, STM32L4R5QGI6STR, STM32MP131AAE3, STM32MP131AAF3, STM32MP131AAG3, STM32MP131CAE3, STM32MP131CAF3, STM32MP131CAG3, STM32MP131DAE7, STM32MP131DAF7, STM32MP131DAG7, STM32MP131FAE7, STM32MP131FAF7, STM32MP131FAG7, STM32MP133AAE3, STM32MP133AAF3, STM32MP133AAG3, STM32MP133CAE3, STM32MP133CAF3, STM32MP133CAG3, STM32MP133DAE7, STM32MP133DAF7, STM32MP133DAG7, STM32MP133FAE7, STM32MP133FAF7, STM32MP133FAG7, STM32MP135AAE3, STM32MP135AAF3, STM32MP135AAG3, STM32MP135CAE3, STM32MP135CAF3, STM32MP135CAG3, STM32MP135DAE7, STM32MP135DAF7, STM32MP135DAG7, STM32MP135F-DK, STM32MP135FAE7, STM32MP135FAF7, STM32MP135FAG7, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q, STM32WB1MMCH6]
+2022-11-05 03:14:07,353 [INFO] BoardInfo:879 - No configuration file found for board P-NUCLEO-WB55
+2022-11-05 03:14:07,353 [INFO] DbBoards:156 - Kit is not supported: P-NUCLEO-WB55
+2022-11-05 03:14:07,357 [INFO] BoardInfo:879 - No configuration file found for board STEVAL-BFA001V1B
+2022-11-05 03:14:07,357 [INFO] DbBoards:156 - Kit is not supported: STEVAL-BFA001V1B
+2022-11-05 03:14:07,358 [INFO] BoardInfo:879 - No configuration file found for board STEVAL-BFA001V2B
+2022-11-05 03:14:07,358 [INFO] DbBoards:156 - Kit is not supported: STEVAL-BFA001V2B
+2022-11-05 03:14:07,434 [INFO] DbBoards:160 - Found 176 boards, 173 are supported
+2022-11-05 03:14:07,439 [INFO] ApiDb:409 - User favorites file not found: C:\Users\nguye/.stm32cubeide/favorites.boards.txt
+2022-11-05 03:14:07,440 [INFO] DbBoards:189 - Set 0 / 0 favorites Boards
+2022-11-05 03:14:22,067 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-11-05 03:14:22,068 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-11-05 03:14:22,069 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-11-05 03:34:28,291 [INFO] MainUpdater:2768 - connection check result : 10
+2022-11-05 03:34:28,292 [INFO] MainUpdater:2768 - connection check result : 10
+2022-11-05 03:34:28,309 [INFO] MicroXplorer:451 - Change Database Path : 
+2022-11-05 03:34:28,310 [INFO] MicroXplorer:481 - Change Database Version : DB.6.0.60
+2022-11-05 03:34:28,310 [WARN] ThirdParty:827 - waiting for thirdparty lock release [close project]
+2022-11-05 03:34:28,310 [INFO] ThirdParty:829 - entering critical section [close project]
+2022-11-05 03:34:28,311 [INFO] ThirdParty:839 - exiting critical section [close project]
+2022-11-05 03:34:28,314 [INFO] PinOutPanel:1468 - setPackage(No Configuration,No Configuration)
+2022-11-05 03:34:28,320 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 249098048 Bytes (411041792)
+2022-11-05 03:34:28,321 [INFO] MicroXplorer:451 - Change Database Path : 
+2022-11-05 03:34:28,321 [INFO] MicroXplorer:481 - Change Database Version : DB.6.0.60
+2022-11-05 03:34:28,322 [INFO] OpenFileManager:307 - Change cursor
+2022-11-05 03:34:28,353 [INFO] Mcu:1922 - Initializing MCU STM32F103C6Ux STM32F103C6Ux 
+2022-11-05 03:34:28,355 [INFO] Mcu:1935 - No CPN specified => set CPN to STM32F103C6U6A
+2022-11-05 03:34:28,829 [INFO] Context:654 - Trying to add GPIOservice into a context  which must be forbidden
+2022-11-05 03:34:28,977 [INFO] ImportTextPane:193 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2022-11-05 03:34:28,977 [INFO] ImportTextPane:193 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2022-11-05 03:34:28,978 [INFO] ImportTextPane:193 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2022-11-05 03:34:29,019 [WARN] ApiManager:308 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2022-11-05 03:34:29,020 [WARN] ApiManager:308 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2022-11-05 03:34:29,020 [WARN] ApiManager:308 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2022-11-05 03:34:29,031 [WARN] ApiManager:308 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2022-11-05 03:34:29,032 [INFO] RtosManager:488 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2022-11-05 03:34:29,032 [INFO] RtosManager:488 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2022-11-05 03:34:29,032 [INFO] RtosManager:488 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2022-11-05 03:34:29,032 [INFO] RtosManager:488 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2022-11-05 03:34:29,034 [WARN] ModelIntegratedComponent:185 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2022-11-05 03:34:29,037 [WARN] ApiManager:308 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2022-11-05 03:34:29,037 [WARN] ApiManager:308 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2022-11-05 03:34:29,038 [WARN] ApiManager:308 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2022-11-05 03:34:29,041 [WARN] ApiManager:308 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,044 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,046 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,047 [WARN] ModelIntegratedComponent:64 - No mode defined for component null
+2022-11-05 03:34:29,048 [WARN] ApiManager:308 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2022-11-05 03:34:29,098 [WARN] ApiManager:308 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2022-11-05 03:34:29,099 [WARN] ApiManager:308 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2022-11-05 03:34:29,099 [WARN] ApiManager:308 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2022-11-05 03:34:29,104 [WARN] ApiManager:308 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2022-11-05 03:34:29,105 [WARN] ApiManager:308 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2022-11-05 03:34:29,105 [WARN] ApiManager:308 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2022-11-05 03:34:29,105 [WARN] ApiManager:308 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2022-11-05 03:34:29,105 [WARN] ApiManager:308 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2022-11-05 03:34:29,106 [WARN] ApiManager:308 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2022-11-05 03:34:29,113 [INFO] ThirdPartyModel:289 - Start build external matchings
+2022-11-05 03:34:29,242 [INFO] ThirdPartyModel:302 - End build external matchings
+2022-11-05 03:34:29,368 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 153588960 Bytes (411041792)
+2022-11-05 03:34:29,382 [WARN] ThirdParty:789 - waiting for thirdparty lock release [change project]
+2022-11-05 03:34:29,382 [INFO] ThirdParty:791 - entering critical section [change project]
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.2.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.1
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.5.1
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2022-11-05 03:34:29,383 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.3.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.0.0
+2022-11-05 03:34:29,384 [INFO] ThirdParty:797 - exiting critical section [change project]
+2022-11-05 03:34:29,552 [INFO] PinOutPanel:1468 - setPackage(No Configuration,No Configuration)
+2022-11-05 03:34:29,553 [INFO] PinOutPanel:1468 - setPackage(STM32F103C6Ux,UFQFPN48)
+2022-11-05 03:34:29,910 [INFO] UtilMem:74 - Before build in PCC Used Memory: 170146088 Bytes (411041792)
+2022-11-05 03:34:30,447 [INFO] UtilMem:74 - After build in PCC Used Memory: 189623736 Bytes (411041792)
+2022-11-05 03:34:30,464 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,464 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,464 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,464 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,465 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,466 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,466 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,467 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,467 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,467 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,467 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,467 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,467 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,468 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,468 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-11-05 03:34:30,661 [INFO] OpenFileManager:327 - Restore cursor
+2022-11-05 03:34:30,978 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 293253664 Bytes (411041792)
+2022-11-05 03:34:31,011 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 302869944 Bytes (411041792)
+2022-11-05 03:34:31,361 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 03:34:31,361 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 03:34:31,362 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 03:34:31,492 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 03:34:31,755 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 03:34:31,765 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 03:34:31,896 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 03:34:31,900 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 03:34:31,974 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 03:34:32,059 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 03:34:32,175 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 03:34:32,178 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 03:34:32,271 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 03:34:32,277 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 03:34:32,354 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 03:34:32,387 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 03:34:32,460 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 03:34:32,463 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 03:34:32,562 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 03:34:33,133 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 212mS.
+2022-11-05 03:34:33,141 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 03:34:33,331 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 03:34:33,341 [INFO] ApiDbMcu:505 - Load IP Config File for FATFS
+2022-11-05 03:34:33,355 [INFO] ApiDbMcu:505 - Load IP Config File for FREERTOS
+2022-11-05 03:34:33,359 [INFO] ApiDbMcu:505 - Load IP Config File for USB_DEVICE
+2022-11-05 03:34:35,054 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 1912mS.
+2022-11-05 03:34:35,055 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
+2022-11-05 03:34:35,057 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 03:34:35,650 [INFO] McuFinderGlobals:57 - Set McuFinderConnectedMode to true
+2022-11-05 03:34:35,653 [INFO] ApiDb:443 - Save user favorites file C:\Users\nguye/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-11-05 03:34:35,653 [INFO] ApiDb:447 - User favorites MCUs=[]
+2022-11-05 03:36:33,890 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 213009568 Bytes (580911104)
+2022-11-05 03:36:35,245 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 184252272 Bytes (580911104)
+2022-11-05 03:36:36,844 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 176199440 Bytes (580911104)
+2022-11-05 03:36:37,131 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 03:36:37,132 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 03:36:37,132 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 03:36:37,132 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 03:36:37,222 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 03:36:37,280 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 03:36:37,295 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 03:36:37,367 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 03:36:37,378 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 03:36:37,434 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 03:36:37,437 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 03:36:37,481 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 03:36:37,494 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 03:36:37,553 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 03:36:37,556 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 03:36:37,598 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 03:36:37,608 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 03:36:37,666 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 03:36:37,685 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 03:36:37,741 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 03:36:37,748 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 03:36:37,852 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 03:36:38,246 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 130mS.
+2022-11-05 03:36:38,249 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 03:36:38,443 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 03:36:39,251 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 1002mS.
+2022-11-05 03:36:39,253 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 03:36:39,255 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 03:42:03,455 [INFO] NvicIntPanel:100 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-11-05 03:42:04,771 [INFO] NvicIntPanel:100 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-11-05 03:42:10,170 [INFO] NvicIntPanel:100 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-11-05 03:42:12,665 [INFO] NvicIntPanel:100 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-11-05 03:42:18,490 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 219603472 Bytes (616562688)
+2022-11-05 03:42:20,507 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 213389616 Bytes (616562688)
+2022-11-05 03:42:21,769 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 208339784 Bytes (616562688)
+2022-11-05 03:42:21,933 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 03:42:21,933 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 03:42:21,934 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 03:42:21,934 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 03:42:21,934 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 03:42:22,029 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 03:42:22,084 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 03:42:22,090 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 03:42:22,146 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 03:42:22,185 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 03:42:22,255 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 03:42:22,260 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 03:42:22,313 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 03:42:22,326 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 03:42:22,435 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 03:42:22,438 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 03:42:22,481 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 03:42:22,492 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 03:42:22,564 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 03:42:22,578 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 03:42:22,579 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 03:42:22,588 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 03:42:22,640 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 03:42:22,648 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 03:42:22,730 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 03:42:23,170 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 145mS.
+2022-11-05 03:42:23,173 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 03:42:23,404 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 03:42:24,176 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 1003mS.
+2022-11-05 03:42:24,177 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 03:42:24,179 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 04:08:46,428 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 287283664 Bytes (640679936)
+2022-11-05 04:08:47,365 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 239645176 Bytes (640679936)
+2022-11-05 04:08:49,127 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 219286728 Bytes (640679936)
+2022-11-05 04:08:49,278 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 04:08:49,278 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 04:08:49,278 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 04:08:49,278 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 04:08:49,278 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 04:08:49,358 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 04:08:49,408 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 04:08:49,419 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 04:08:49,480 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 04:08:49,497 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 04:08:49,554 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 04:08:49,558 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 04:08:49,602 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 04:08:49,615 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 04:08:49,677 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 04:08:49,680 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 04:08:49,721 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 04:08:49,731 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 04:08:49,793 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 04:08:49,816 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 04:08:49,816 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 04:08:49,840 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 04:08:49,901 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 04:08:49,911 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 04:08:49,991 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 04:08:50,393 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 136mS.
+2022-11-05 04:08:50,395 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 04:08:50,592 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 04:08:51,353 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 958mS.
+2022-11-05 04:08:51,354 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
+2022-11-05 04:08:51,355 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 04:12:26,563 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 527954496 Bytes (640679936)
+2022-11-05 04:12:27,793 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 244472688 Bytes (640679936)
+2022-11-05 04:12:28,831 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 223624816 Bytes (640679936)
+2022-11-05 04:12:28,971 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 04:12:28,972 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 04:12:28,972 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 04:12:28,972 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 04:12:28,973 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 04:12:29,054 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 04:12:29,109 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 04:12:29,125 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 04:12:29,182 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 04:12:29,200 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 04:12:29,251 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 04:12:29,255 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 04:12:29,297 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 04:12:29,312 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 04:12:29,367 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 04:12:29,369 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 04:12:29,407 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 04:12:29,414 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 04:12:29,500 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 04:12:29,505 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 04:12:29,506 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 04:12:29,513 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 04:12:29,578 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 04:12:29,586 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 04:12:29,658 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 04:12:30,054 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 130mS.
+2022-11-05 04:12:30,056 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 04:12:30,254 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 04:12:30,896 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 840mS.
+2022-11-05 04:12:30,897 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 04:12:30,898 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 04:13:19,950 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 395322024 Bytes (640679936)
+2022-11-05 04:13:20,962 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 230842688 Bytes (640679936)
+2022-11-05 04:13:24,410 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 262740784 Bytes (640679936)
+2022-11-05 04:13:24,534 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 04:13:24,535 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 04:13:24,535 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 04:13:24,535 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 04:13:24,535 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 04:13:24,617 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 04:13:24,667 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 04:13:24,677 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 04:13:24,732 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 04:13:24,751 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 04:13:24,798 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 04:13:24,801 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 04:13:24,842 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 04:13:24,857 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 04:13:24,911 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 04:13:24,913 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 04:13:24,951 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 04:13:24,958 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 04:13:25,018 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 04:13:25,023 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 04:13:25,023 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 04:13:25,031 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 04:13:25,088 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 04:13:25,096 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 04:13:25,168 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 04:13:25,597 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 127mS.
+2022-11-05 04:13:25,599 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 04:13:25,733 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 04:13:26,386 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 787mS.
+2022-11-05 04:13:26,387 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
+2022-11-05 04:13:26,388 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 04:13:58,117 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 251423400 Bytes (713031680)
+2022-11-05 04:13:58,246 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 04:13:58,247 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 04:13:58,247 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 04:13:58,247 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 04:13:58,247 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 04:13:58,328 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 04:13:58,378 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 04:13:58,387 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 04:13:58,438 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 04:13:58,454 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 04:13:58,504 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 04:13:58,508 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 04:13:58,547 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 04:13:58,562 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 04:13:58,618 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 04:13:58,621 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 04:13:58,659 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 04:13:58,668 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 04:13:58,727 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 04:13:58,732 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 04:13:58,733 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 04:13:58,741 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 04:13:58,824 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 04:13:58,831 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 04:13:58,901 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 04:13:59,289 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 127mS.
+2022-11-05 04:13:59,291 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 04:13:59,476 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 04:14:00,087 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 796mS.
+2022-11-05 04:14:00,087 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 04:14:00,089 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:18:04,954 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 508893704 Bytes (713031680)
+2022-11-05 11:18:05,978 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 232133728 Bytes (713031680)
+2022-11-05 11:18:07,192 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 301673520 Bytes (713031680)
+2022-11-05 11:18:07,310 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:18:07,310 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:18:07,310 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:18:07,310 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:18:07,311 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:18:07,421 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:18:07,467 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:18:07,480 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:18:07,533 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:18:07,553 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:18:07,607 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:18:07,614 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:18:07,664 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:18:07,680 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:18:07,774 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:18:07,780 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:18:07,822 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:18:07,836 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:18:07,895 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:18:07,899 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:18:07,900 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:18:07,911 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:18:07,967 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:18:07,978 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:18:08,047 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:18:08,430 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 127mS.
+2022-11-05 11:18:08,432 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:18:08,629 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:18:09,450 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 1018mS.
+2022-11-05 11:18:09,450 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:18:09,451 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:19:20,092 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 239471264 Bytes (713031680)
+2022-11-05 11:19:21,232 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 244583352 Bytes (713031680)
+2022-11-05 11:19:23,354 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 224251448 Bytes (713031680)
+2022-11-05 11:19:23,538 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:19:23,538 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:19:23,538 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:19:23,538 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:19:23,539 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:19:23,644 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:19:23,693 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:19:23,701 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:19:23,760 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:19:23,776 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:19:23,824 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:19:23,827 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:19:23,868 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:19:23,881 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:19:23,933 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:19:23,936 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:19:23,973 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:19:23,981 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:19:24,039 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:19:24,043 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:19:24,043 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:19:24,050 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:19:24,109 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:19:24,116 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:19:24,183 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:19:24,608 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 132mS.
+2022-11-05 11:19:24,611 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:19:24,772 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:19:25,398 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 787mS.
+2022-11-05 11:19:25,399 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
+2022-11-05 11:19:25,400 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:39:54,751 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:40:19,128 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 438784776 Bytes (713031680)
+2022-11-05 11:40:32,320 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 466820792 Bytes (713031680)
+2022-11-05 11:40:34,336 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 542251704 Bytes (713031680)
+2022-11-05 11:40:34,461 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:40:34,461 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:40:34,461 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:40:34,461 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:40:34,462 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:40:34,594 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:40:34,672 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:40:34,683 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:40:34,745 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:40:34,762 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:40:34,817 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:40:34,821 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:40:34,863 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:40:34,878 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:40:34,935 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:40:34,937 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:40:34,980 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:40:34,988 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:40:35,047 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:40:35,052 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:40:35,052 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:40:35,061 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:40:35,110 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:40:35,116 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:40:35,188 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:40:35,648 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 158mS.
+2022-11-05 11:40:35,650 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:40:35,793 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:40:36,468 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 818mS.
+2022-11-05 11:40:36,468 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:40:36,471 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:41:11,178 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 352351048 Bytes (713031680)
+2022-11-05 11:41:12,263 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 384361768 Bytes (713031680)
+2022-11-05 11:41:13,718 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 447812920 Bytes (713031680)
+2022-11-05 11:41:13,875 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:41:13,876 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:41:13,876 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:41:13,876 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:41:13,877 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:41:13,984 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:41:14,041 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:41:14,050 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:41:14,101 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:41:14,116 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:41:14,164 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:41:14,167 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:41:14,208 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:41:14,222 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:41:14,278 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:41:14,280 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:41:14,318 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:41:14,327 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:41:14,382 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:41:14,387 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:41:14,387 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:41:14,394 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:41:14,445 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:41:14,452 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:41:14,532 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:41:14,924 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 127mS.
+2022-11-05 11:41:14,926 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:41:15,114 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:41:15,744 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 818mS.
+2022-11-05 11:41:15,744 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:41:15,746 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:46:30,395 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:46:31,918 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:46:51,597 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 241798328 Bytes (731906048)
+2022-11-05 11:46:52,714 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 262555832 Bytes (731906048)
+2022-11-05 11:46:54,205 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 283519872 Bytes (731906048)
+2022-11-05 11:46:54,337 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:46:54,337 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:46:54,337 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:46:54,337 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:46:54,338 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:46:54,425 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:46:54,480 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:46:54,490 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:46:54,551 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:46:54,592 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:46:54,657 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:46:54,661 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:46:54,704 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:46:54,719 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:46:54,773 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:46:54,776 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:46:54,815 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:46:54,824 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:46:54,884 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:46:54,889 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:46:54,889 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:46:54,897 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:46:54,947 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:46:54,954 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:46:55,017 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:46:55,454 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 142mS.
+2022-11-05 11:46:55,456 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:46:55,657 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:46:56,280 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 824mS.
+2022-11-05 11:46:56,281 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:46:56,283 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
+2022-11-05 11:47:22,047 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:47:34,244 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:47:42,939 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 266144736 Bytes (731906048)
+2022-11-05 11:47:43,849 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 248572952 Bytes (731906048)
+2022-11-05 11:47:45,589 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 229945080 Bytes (731906048)
+2022-11-05 11:47:45,738 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:47:45,738 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:47:45,739 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:47:45,739 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:47:45,739 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:47:45,822 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:47:45,878 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:47:45,889 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:47:45,951 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:47:45,969 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:47:46,030 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:47:46,033 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:47:46,073 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:47:46,090 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:47:46,150 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:47:46,152 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:47:46,189 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:47:46,197 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:47:46,274 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:47:46,280 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:47:46,280 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:47:46,290 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:47:46,362 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:47:46,370 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:47:46,465 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:47:46,854 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 124mS.
+2022-11-05 11:47:46,855 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:47:46,993 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:47:47,609 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 754mS.
+2022-11-05 11:47:47,611 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:47:47,613 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:50:01,690 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:50:04,231 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:50:22,168 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 232383336 Bytes (731906048)
+2022-11-05 11:50:22,918 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 235235680 Bytes (731906048)
+2022-11-05 11:50:23,894 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 227164416 Bytes (731906048)
+2022-11-05 11:50:24,066 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:50:24,066 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:50:24,066 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:50:24,066 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:50:24,067 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:50:24,169 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:50:24,218 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:50:24,227 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:50:24,286 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:50:24,300 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:50:24,350 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:50:24,353 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:50:24,396 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:50:24,411 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:50:24,463 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:50:24,465 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:50:24,503 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:50:24,511 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:50:24,566 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:50:24,571 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:50:24,572 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:50:24,579 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:50:24,627 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:50:24,635 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:50:24,704 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:50:25,113 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 126mS.
+2022-11-05 11:50:25,115 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:50:25,295 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:50:25,858 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 743mS.
+2022-11-05 11:50:25,859 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:50:25,860 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:52:04,225 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 262168440 Bytes (731906048)
+2022-11-05 11:52:05,315 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 237468648 Bytes (731906048)
+2022-11-05 11:52:07,166 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 279457648 Bytes (731906048)
+2022-11-05 11:52:07,285 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:52:07,285 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:52:07,285 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:52:07,285 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:52:07,285 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:52:07,368 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:52:07,420 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:52:07,430 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:52:07,484 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:52:07,500 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:52:07,562 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:52:07,567 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:52:07,609 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:52:07,624 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:52:07,683 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:52:07,685 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:52:07,724 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:52:07,733 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:52:07,806 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:52:07,811 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:52:07,812 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:52:07,820 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:52:07,900 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:52:07,909 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:52:07,984 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:52:08,388 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 125mS.
+2022-11-05 11:52:08,390 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:52:08,523 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:52:09,137 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 747mS.
+2022-11-05 11:52:09,137 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:52:09,139 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:53:19,517 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 257840272 Bytes (731906048)
+2022-11-05 11:53:20,315 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 288326208 Bytes (731906048)
+2022-11-05 11:53:21,376 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 346442896 Bytes (731906048)
+2022-11-05 11:53:21,496 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:53:21,496 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:53:21,496 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:53:21,496 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:53:21,496 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:53:21,583 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:53:21,640 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:53:21,650 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:53:21,709 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:53:21,724 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:53:21,772 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:53:21,776 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:53:21,816 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:53:21,861 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:53:21,918 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:53:21,920 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:53:21,958 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:53:21,968 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:53:22,022 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:53:22,028 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:53:22,028 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:53:22,036 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:53:22,085 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:53:22,092 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:53:22,162 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:53:22,576 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 144mS.
+2022-11-05 11:53:22,578 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:53:22,713 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:53:23,342 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 764mS.
+2022-11-05 11:53:23,346 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 4mS.
+2022-11-05 11:53:23,348 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:55:12,003 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:55:20,458 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 11:55:33,373 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 396723920 Bytes (731906048)
+2022-11-05 11:55:34,500 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 424542776 Bytes (731906048)
+2022-11-05 11:55:35,449 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 466139912 Bytes (731906048)
+2022-11-05 11:55:35,572 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:55:35,572 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:55:35,572 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:55:35,572 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:55:35,574 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:55:35,699 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:55:35,771 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:55:35,781 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:55:35,833 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:55:35,848 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:55:35,895 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:55:35,898 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:55:35,939 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:55:35,952 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:55:36,005 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:55:36,007 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:55:36,045 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:55:36,054 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:55:36,111 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:55:36,116 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:55:36,116 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:55:36,125 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:55:36,186 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:55:36,194 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:55:36,254 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:55:36,688 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 134mS.
+2022-11-05 11:55:36,689 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:55:36,826 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:55:37,401 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 712mS.
+2022-11-05 11:55:37,403 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 2mS.
+2022-11-05 11:55:37,404 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:56:22,557 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 280710520 Bytes (731906048)
+2022-11-05 11:56:23,339 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 311442160 Bytes (731906048)
+2022-11-05 11:56:36,020 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 473692944 Bytes (731906048)
+2022-11-05 11:56:36,141 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 11:56:36,141 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 11:56:36,141 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 11:56:36,141 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 11:56:36,142 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 11:56:36,266 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 11:56:36,342 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 11:56:36,352 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 11:56:36,406 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 11:56:36,423 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 11:56:36,469 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 11:56:36,472 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 11:56:36,512 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 11:56:36,523 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 11:56:36,577 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 11:56:36,579 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 11:56:36,617 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 11:56:36,625 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 11:56:36,683 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 11:56:36,689 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 11:56:36,690 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 11:56:36,697 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 11:56:36,742 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 11:56:36,749 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 11:56:36,809 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 11:56:37,233 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 127mS.
+2022-11-05 11:56:37,235 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 11:56:37,376 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 11:56:37,958 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 723mS.
+2022-11-05 11:56:37,958 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 11:56:37,960 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 12:21:15,266 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 12:21:18,311 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 12:21:32,318 [INFO] Gpio:272 - dependency for GPIO []
+2022-11-05 12:21:40,225 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 402814896 Bytes (731906048)
+2022-11-05 12:21:41,612 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 423788464 Bytes (731906048)
+2022-11-05 12:21:43,201 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 471788096 Bytes (731906048)
+2022-11-05 12:21:43,326 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2022-11-05 12:21:43,326 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2022-11-05 12:21:43,326 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2022-11-05 12:21:43,326 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: TIM1_8F1
+2022-11-05 12:21:43,327 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2022-11-05 12:21:43,423 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp_save
+2022-11-05 12:21:43,477 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\license.tmp
+2022-11-05 12:21:43,486 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp_save
+2022-11-05 12:21:43,542 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\gpio.tmp
+2022-11-05 12:21:43,558 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c_save
+2022-11-05 12:21:43,611 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_it.c
+2022-11-05 12:21:43,615 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h_save
+2022-11-05 12:21:43,658 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_it.h
+2022-11-05 12:21:43,672 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-05 12:21:43,725 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\stm32f1xx_hal_msp.c
+2022-11-05 12:21:43,728 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp_save
+2022-11-05 12:21:43,765 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\MXTmpFiles\system.tmp
+2022-11-05 12:21:43,776 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-05 12:21:43,852 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-05 12:21:43,857 [WARN] IPConfigManager:3348 - IP not found : TIM
+2022-11-05 12:21:43,857 [WARN] CodeGenerator:3567 - IP not found : null
+2022-11-05 12:21:43,866 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h_save
+2022-11-05 12:21:43,937 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Inc\main.h
+2022-11-05 12:21:43,944 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c_save
+2022-11-05 12:21:44,019 [INFO] CodeEngine:269 - Generated code: C:\Users\nguye\microcontroller-hcmut\Midterm\Core\Src\main.c
+2022-11-05 12:21:44,470 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 145mS.
+2022-11-05 12:21:44,471 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2022-11-05 12:21:44,678 [INFO] ConfigFileManager:1394 - The Die is : DIE412
+2022-11-05 12:21:45,291 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 820mS.
+2022-11-05 12:21:45,293 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 2mS.
+2022-11-05 12:21:45,294 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.
+2022-11-05 14:12:24,033 [INFO] Activator:177 - 
+
+
+2022-11-05 14:12:24,034 [INFO] Activator:178 - !SESSION log4j initialized
+2022-11-05 14:12:48,934 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-11-05 14:12:48,936 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-11-05 14:12:48,938 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-11-05 16:02:51,893 [INFO] Activator:177 - 
+
+
+2022-11-05 16:02:51,893 [INFO] Activator:178 - !SESSION log4j initialized

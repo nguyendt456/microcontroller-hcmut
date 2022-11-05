@@ -1,0 +1,96 @@
+/*
+ * button.c
+ *
+ *  Created on: Nov 5, 2022
+ *      Author: nguye
+ */
+#include "button.h"
+#include "main.h"
+
+int keyEvent0 = NORMAL_STATE;
+int keyEvent1 = NORMAL_STATE;
+int keyEvent2 = NORMAL_STATE;
+
+int keyEvent3 = NORMAL_STATE;
+
+int timerCount = 300;
+int getINCInput(int counter) {
+	keyEvent0 = keyEvent1;
+	keyEvent1 = keyEvent2;
+	keyEvent2 = HAL_GPIO_ReadPin(INC_BUTTON_GPIO_Port, INC_BUTTON_Pin);
+	if(keyEvent0 == keyEvent1 && keyEvent1 == keyEvent2) {
+		if(keyEvent3 != keyEvent2) {
+			keyEvent3 = keyEvent2;
+			if(keyEvent2 == PRESSED_STATE) {
+				counter += 1;
+				timerCount = 300;
+				if(counter > 9) counter = 0;
+				display7SEG(counter, GPIOA, a_1_Pin, b_1_Pin, c_1_Pin, d_1_Pin, e_1_Pin, f_1_Pin, g_1_Pin);
+			}
+		}
+		else {
+			timerCount--;
+			if(timerCount <= 0) {
+				timerCount = 100;
+
+				//Implement here
+				if(keyEvent2 == PRESSED_STATE) {
+					counter += 1;
+					if(counter > 9) counter = 0;
+					display7SEG(counter, GPIOA, a_1_Pin, b_1_Pin, c_1_Pin, d_1_Pin, e_1_Pin, f_1_Pin, g_1_Pin);
+				}
+			}
+		}
+	}
+	return counter;
+}
+
+int getDCInput(int counter) {
+	keyEvent0 = keyEvent1;
+	keyEvent1 = keyEvent2;
+	keyEvent2 = HAL_GPIO_ReadPin(DC_BUTTON_GPIO_Port, DC_BUTTON_Pin);
+	if(keyEvent0 == keyEvent1 && keyEvent1 == keyEvent2) {
+		if(keyEvent3 != keyEvent2) {
+			keyEvent3 = keyEvent2;
+			if(keyEvent2 == PRESSED_STATE) {
+				counter -= 1;
+				timerCount = 300;
+				if(counter < 0) counter = 9;
+				display7SEG(counter, GPIOA, a_1_Pin, b_1_Pin, c_1_Pin, d_1_Pin, e_1_Pin, f_1_Pin, g_1_Pin);
+			}
+		}
+		else {
+			timerCount--;
+			if(timerCount <= 0) {
+				timerCount = 100;
+
+				//Implement here
+				if(keyEvent2 == PRESSED_STATE) {
+					counter -= 1;
+					if(counter < 0) counter = 9;
+					display7SEG(counter, GPIOA, a_1_Pin, b_1_Pin, c_1_Pin, d_1_Pin, e_1_Pin, f_1_Pin, g_1_Pin);
+				}
+			}
+		}
+	}
+	return counter;
+}
+int keyEventReset0 = NORMAL_STATE;
+int keyEventReset1 = NORMAL_STATE;
+int keyEventReset2 = NORMAL_STATE;
+
+int getResetInput(int counter) {
+	keyEventReset0 = keyEventReset1;
+	keyEventReset1 = keyEventReset2;
+	keyEventReset2 = HAL_GPIO_ReadPin(RESET_BUTTON_GPIO_Port, RESET_BUTTON_Pin);
+	if(keyEventReset0 == keyEventReset1 && keyEventReset1 == keyEventReset2) {
+		keyEventReset3 = keyEventReset2;
+		if(keyEventReset2 == PRESSED_STATE) {
+			counter -= 1;
+			timerCount = 300;
+			if(counter < 0) counter = 9;
+			display7SEG(counter, GPIOA, a_1_Pin, b_1_Pin, c_1_Pin, d_1_Pin, e_1_Pin, f_1_Pin, g_1_Pin);
+		}
+	}
+	return counter;
+}

@@ -1,0 +1,28 @@
+/*
+ * button.c
+ *
+ *  Created on: Nov 5, 2022
+ *      Author: nguye
+ */
+#include "button.h"
+#include "main.h"
+
+int keyEvent0 = NORMAL_STATE;
+int keyEvent1 = NORMAL_STATE;
+int keyEvent2 = NORMAL_STATE;
+
+int keyEvent3 = NORMAL_STATE;
+void getINCInput() {
+	keyEvent0 = keyEvent1;
+	keyEvent1 = keyEvent2;
+	keyEvent2 = HAL_GPIO_ReadPin(INC_BUTTON_GPIO_Port, INC_BUTTON_Pin);
+	if(keyEvent0 == keyEvent1 && keyEvent1 == keyEvent2) {
+		if(keyEvent3 == keyEvent2) {
+			if(keyEvent2 == PRESSED_STATE) {
+
+			}
+		}
+	}
+
+}
+
