@@ -1,7 +1,0 @@
-../Core/Src/led.c:11:6:clearAllTrafficLight	8	static
-../Core/Src/led.c:20:6:setENxState	24	static
-../Core/Src/led.c:29:6:setTraffic	24	static
-../Core/Src/led.c:45:6:blink_red	8	static
-../Core/Src/led.c:49:6:blink_yellow	8	static
-../Core/Src/led.c:53:6:blink_green	8	static
-../Core/Src/led.c:57:6:ledScan	32	static
