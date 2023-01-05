@@ -1,0 +1,5 @@
+led.c:12:6:clearAllTrafficLight	8	static
+led.c:21:6:setTraffic	24	static
+led.c:37:6:blink_red	8	static
+led.c:41:6:blink_yellow	8	static
+led.c:45:6:blink_green	8	static
