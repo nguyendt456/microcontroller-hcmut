@@ -252,7 +252,7 @@ int main(void)
 	  			  break;
 	  		  case MODE_4_GREEN:
 	  			  blink_green();
-	  			  break;
+            break;
 	  		  }
 	  	  }
 	  	  if(timer4_flag == 1) {
@@ -265,7 +265,7 @@ int main(void)
 	  	  if(timer3_flag == 1 && mode == MODE_1_MANUAL) {
 	  		  setSecondTrafficLight(second_traffic_state);
 	  	  }
-	  	  if(timer1_flag == 1) {
+	  	  if(timer1_flag == 1 && mode == MODE_1_MANUAL) {
 	  		  HAL_UART_Transmit(&huart2, (void*)str, sprintf(str , "\r\n!Time=%d", (int) (timer3_counter / 100)), 1000);
 	  	  }
   }
